@@ -1,7 +1,6 @@
 # XPF1201
 this is my first repository
 
-
 my submit for rebase
 
 master submit
@@ -10,8 +9,4 @@ master submit
 
 再次提交。。。。
 
-test rebase1
-
-分支提交
-
-分支提交。。。。。
+11111
